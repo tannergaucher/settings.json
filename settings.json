@@ -1,0 +1,43 @@
+{
+  "editor.fontSize": 20,
+  "editor.fontWeight": "300",
+  "terminal.integrated.fontSize": 22,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 3,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 5,
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.activityBar.visible": false,
+  "workbench.iconTheme": "vs-minimal",
+  "workbench.startupEditor": "none",
+  "zenMode.centerLayout": false,
+  "workbench.statusBar.visible": false,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "debug.toolBarLocation": "docked",
+  "debug.showInStatusBar": "always",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": [],
+  "editor.suggestSelection": "first",
+  "workbench.colorTheme": "Night Owl",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.inlineSuggest.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 1
+}
